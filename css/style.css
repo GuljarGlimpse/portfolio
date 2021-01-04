@@ -1,0 +1,85 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.pot {
+    color: orange;
+}
+.one {
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+  
+}
+.one img {
+    width: 100%;
+}
+.two {
+    background: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+p {
+    color: gray;
+}
+h2 {
+    font-size: 40px;
+}
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red,yellow);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+}
+.button1 {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red,yellow);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+}
+.three {
+    background: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    height: 290px;
+    background-position: right;
+    padding-bottom: 150px;
+     height: 500px;
+    
+}
+section {
+    height: 500px;
+    padding-bottom: 150px;
+}
+.single {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    width: 40%;
+    margin: 70px;
+}
+.exprience-area {
+    background: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#bor1 {
+    border-left: 7px solid;
+   border-image: linear-gradient(15deg, red,yellow);
+    border-image-slice: 1;
+}
+#bor2 {
+    border-left: 7px solid;
+   border-image: linear-gradient(15deg, orange,yellow);
+    border-image-slice: 1;
+}
+
